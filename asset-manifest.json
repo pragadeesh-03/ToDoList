@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDoList/static/css/main.dd93d944.css",
+    "main.js": "/ToDoList/static/js/main.120f192c.js",
+    "static/media/Poppins-Regular.ttf": "/ToDoList/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/ToDoList/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/ToDoList/index.html",
+    "main.dd93d944.css.map": "/ToDoList/static/css/main.dd93d944.css.map",
+    "main.120f192c.js.map": "/ToDoList/static/js/main.120f192c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd93d944.css",
+    "static/js/main.120f192c.js"
+  ]
+}
